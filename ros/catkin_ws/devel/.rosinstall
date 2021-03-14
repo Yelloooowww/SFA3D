@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yellow/SFA3D/ros/catkin_ws/devel/setup.sh
